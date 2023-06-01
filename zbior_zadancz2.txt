@@ -1,0 +1,17 @@
+1.1:
+Nie
+w programie drugim dodajemy łańcuchy znaków
+1.2:
+False - różna wielkość, True, False - nie zawiera się
+1.3:
+1,2,3,4,5,6,7,9
+3.4:
+programy 1 i 4 nie są poprawne
+4.1
+1 błąd
+2 bład
+3 błąd
+4 37
+5 484.0
+6 5.0
+7 5.294117647058823
